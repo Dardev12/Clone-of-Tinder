@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinkerClub</string>
+    <string name="startup_button_login">Log in</string>
+    <string name="startup_button_signup">Sign up</string>
+    <string name="button_appliquer">Appliquer</string>
+    <string name="button_deco">Se déconnecter</string>
+    <string name="no_available_users">No available users</string>
+
+</resources>

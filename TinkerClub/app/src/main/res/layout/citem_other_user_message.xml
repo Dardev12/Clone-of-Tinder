@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/chat_margin"
+    android:gravity="left"
+    android:layout_gravity="left">
+
+    <TextView
+        android:id="@+id/messageTV"
+        style="@style/ChatBubble"
+        android:layout_width="183dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/chat_other_message_bg_rounded"
+        android:gravity="left|center_vertical"
+        android:padding="@dimen/chat_margin"
+        android:textColor="@color/white" />
+
+</LinearLayout>
